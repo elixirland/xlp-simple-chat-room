@@ -1,12 +1,12 @@
 # Simple Chat Room
-This is an Elixirland challenge. Read an introduction to Elixirland here: https://github.com/elixirland.
+This is an Elixirland exercise. Read an introduction to Elixirland here: https://github.com/elixirland.
 
 ## Status
 This repository is **NOT REVIEWED** and **WORK IN PROGRESS**. This status will be set to "reviewed" when enough feedback has been given on the code and documentation in the `solution` directory.
 
 You can provide feedback by [opening an issue](https://github.com/elixirland/xlc-simple-chat-room/issues/new) or contributing to this repository's [discussions](https://github.com/elixirland/xlc-simple-chat-room/discussions).
 
-## Challenge description
+## exercise description
 ### Background
 
 ### Task
@@ -18,7 +18,7 @@ Ensure your implementation meets the following requirements:
 ### Requirements
 
 ### Don't worry about
-To keep the challenge simple, you do not have to implement the following:
+To keep the exercise simple, you do not have to implement the following:
 
 
 ## How to get started
