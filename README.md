@@ -26,7 +26,6 @@ Ensure your implementation meets the following requirements:
 
 ## Assumptions
 To keep the exercise simple, you do not have to implement the following:
-  - 
 
 ## How to get started
 Fork this repository and implement your solution in the Phoenix app at the root directory. The solution by Elixirland is located in the directory `/solution`.
