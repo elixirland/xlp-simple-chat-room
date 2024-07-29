@@ -23,6 +23,7 @@ Ensure your implementation meets the following requirements:
   - Is easily understandable by others, not just yourself
 
 ## Requirements
+  -
 
 ## Assumptions
 To keep the exercise simple, you do not have to implement the following:
