@@ -1,4 +1,4 @@
-# Simple Chat Room
+# Project: Simple Chat Room
 This is an Elixirland exercise. Read an introduction to Elixirland here: https://github.com/elixirland.
 
 ## Status
