@@ -31,7 +31,7 @@ Watch this short clip to see the final result in action.
 - Users log in by email and password
 - All pages require user authentication
 
-> [TIP!]
+> [!TIP]
 > You can use the command `mix phx.gen.auth` ([documentation](https://hexdocs.pm/phoenix/mix_phx_gen_auth.html)) to inject a user authentication service into your Phoenix codebase. 
 
 ### Home page
